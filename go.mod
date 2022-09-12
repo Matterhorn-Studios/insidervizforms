@@ -1,4 +1,4 @@
-module github.com/Matterhorn-Studios/insiderviz-forms
+module github.com/Matterhorn-Studios/insidervizforms
 
 go 1.19
 

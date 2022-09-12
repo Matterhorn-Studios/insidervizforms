@@ -1,6 +1,6 @@
 package insidervizforms
 
-import "github.com/Matterhorn-Studios/insiderviz-forms/iv_models"
+import "github.com/Matterhorn-Studios/insidervizforms/iv_models"
 
 func DbForm4ToDeltaForm(dbForm4 iv_models.DB_BaseForm4) (iv_models.DB_DeltaForm, bool) {
 	flagged := false

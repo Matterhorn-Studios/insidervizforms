@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/Matterhorn-Studios/insiderviz-forms/iv_models"
+	"github.com/Matterhorn-Studios/insidervizforms/iv_models"
 )
 
 func XmlForm4ToRawForm4(path string, accNum string, url string) (iv_models.RawForm4, error) {

@@ -1,6 +1,6 @@
 package insidervizforms
 
-import "github.com/Matterhorn-Studios/insiderviz-forms/iv_models"
+import "github.com/Matterhorn-Studios/insidervizforms/iv_models"
 
 func RawForm4ToDbForm4(rawForm4 iv_models.RawForm4) iv_models.DB_BaseForm4 {
 	// create the db form4

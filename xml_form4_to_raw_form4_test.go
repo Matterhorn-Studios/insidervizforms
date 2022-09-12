@@ -4,8 +4,8 @@ import (
 	"encoding/xml"
 	"testing"
 
-	insidervizforms "github.com/Matterhorn-Studios/insiderviz-forms"
-	"github.com/Matterhorn-Studios/insiderviz-forms/iv_models"
+	insidervizforms "github.com/Matterhorn-Studios/insidervizforms"
+	"github.com/Matterhorn-Studios/insidervizforms/iv_models"
 )
 
 func Test1(t *testing.T) {

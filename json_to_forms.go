@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Matterhorn-Studios/insiderviz-forms/iv_models"
+	"github.com/Matterhorn-Studios/insidervizforms/iv_models"
 )
 
 // returns a map with the form uris, the issuer doc, the reporter doc, the type of entity, and an error

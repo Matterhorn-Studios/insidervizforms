@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Matterhorn-Studios/insiderviz-forms/iv_models"
+	"github.com/Matterhorn-Studios/insidervizforms/iv_models"
 	"github.com/PuerkitoBio/goquery"
 )
 
