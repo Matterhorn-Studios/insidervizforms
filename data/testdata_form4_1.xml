@@ -1,0 +1,79 @@
+<ownershipDocument>
+    <schemaVersion>X0306</schemaVersion>
+    <documentType>4</documentType>
+    <periodOfReport>2022-09-09</periodOfReport>
+    <notSubjectToSection16>0</notSubjectToSection16>
+    <issuer>
+        <issuerCik>0001366868</issuerCik>
+        <issuerName>Globalstar, Inc.</issuerName>
+        <issuerTradingSymbol>GSAT</issuerTradingSymbol>
+    </issuer>
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001026935</rptOwnerCik>
+            <rptOwnerName>COWAN KEITH O</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1351 HOLIDAY SQUARE BLVD</rptOwnerStreet1>
+            <rptOwnerStreet2 />
+            <rptOwnerCity>COVINGTON</rptOwnerCity>
+            <rptOwnerState>LA</rptOwnerState>
+            <rptOwnerZipCode>70433</rptOwnerZipCode>
+            <rptOwnerStateDescription />
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle />
+            <otherText />
+        </reportingOwnerRelationship>
+    </reportingOwner>
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Voting Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2022-09-09</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>P</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>88000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>1.689</value>
+                    <footnoteId id="F1" />
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>626468</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+    <derivativeTable />
+    <footnotes>
+        <footnote id="F1">The shares were purchased in multiple transactions at prices ranging from $1.67 to $1.74 per share. The price reported reflects the volume weighted average purchase price for the transactions. The reporting person undertakes to provide upon request by the SEC staff, the issuer or a security holder of the issuer, full information regarding the number of shares purchased at each separate price.</footnote>
+    </footnotes>
+    <remarks />
+    <ownerSignature>
+        <signatureName>Arthur McMahon III, attorney-in-fact</signatureName>
+        <signatureDate>2022-09-09</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
