@@ -22,6 +22,7 @@ type Top_From_Sector struct {
 	Companies []Top_From_Sector_Entry `json:"companies" bson:"companies"`
 }
 
+// fix?
 type Top_From_Sector_Entry struct {
 	Id          string  `json:"_id" bson:"_id"`
 	Ticker      string  `json:"ticker" bson:"ticker"`
