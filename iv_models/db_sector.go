@@ -23,9 +23,9 @@ type Top_From_Sector struct {
 }
 
 type Top_From_Sector_Entry struct {
-	Id          string `json:"_id" bson:"_id"`
-	Ticker      string `json:"ticker" bson:"ticker"`
-	Name        string `json:"name" bson:"name"`
-	Industry    string `json:"industry" bson:"industry"`
-	TradeVolume int    `json:"tradeVolume" bson:"tradeVolume"`
+	Id          string  `json:"_id" bson:"_id"`
+	Ticker      string  `json:"ticker" bson:"ticker"`
+	Name        string  `json:"name" bson:"name"`
+	Industry    string  `json:"industry" bson:"industry"`
+	TradeVolume float64 `json:"tradeVolume" bson:"tradeVolume"`
 }
