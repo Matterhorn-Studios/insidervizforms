@@ -15,9 +15,11 @@ type DB_DeltaForm struct {
 }
 
 type DB_Issuer struct {
-	IssuerCik    string `json:"issuerCik" bson:"issuerCik"`
-	IssuerName   string `json:"issuerName" bson:"issuerName"`
-	IssuerTicker string `json:"issuerTicker" bson:"issuerTicker"`
+	IssuerCik      string `json:"issuerCik" bson:"issuerCik"`
+	IssuerName     string `json:"issuerName" bson:"issuerName"`
+	IssuerTicker   string `json:"issuerTicker" bson:"issuerTicker"`
+	IssuerSector   string `json:"issuerSector" bson:"issuerSector"`
+	IssuerIndustry string `json:"issuerIndustry" bson:"issuerIndustry"`
 }
 
 type DB_Reporter struct {
