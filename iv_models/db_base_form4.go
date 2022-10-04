@@ -5,6 +5,7 @@ type DB_BaseForm4 struct {
 	PeriodOfReport            string                        `json:"periodOfReport" bson:"periodOfReport"`
 	AccessionNumber           string                        `json:"accessionNumber" bson:"accessionNumber"`
 	Url                       string                        `json:"url" bson:"url"`
+	DateAdded                 string                        `json:"dateAdded" bson:"dateAdded"`
 	Issuer                    DB_Issuer                     `json:"issuer" bson:"issuer"`
 	Reporters                 []DB_Reporter                 `json:"reporters" bson:"reporters"`
 	DerivativeTransactions    []DB_DerivativeTransaction    `json:"derivativeTransactions" bson:"derivativeTransactions"`

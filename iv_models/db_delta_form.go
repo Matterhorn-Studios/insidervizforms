@@ -10,6 +10,7 @@ type DB_DeltaForm struct {
 	PostTransactionShares float32       `json:"postTransactionShares" bson:"postTransactionShares"`
 	BuyOrSell             string        `json:"buyOrSell" bson:"buyOrSell"`
 	Url                   string        `json:"url" bson:"url"`
+	DateAdded             string        `json:"dateAdded" bson:"dateAdded"`
 	Issuer                DB_Issuer     `json:"issuer" bson:"issuer"`
 	Reporters             []DB_Reporter `json:"reporters" bson:"reporters"`
 }
